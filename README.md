@@ -1,2 +1,2 @@
 # designpatterns
-Design Patterns in Java and Python
+Design Patterns in Java
